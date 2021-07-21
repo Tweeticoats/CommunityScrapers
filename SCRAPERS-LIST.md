@@ -37,7 +37,7 @@ alexismonroe.com|bellapass.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 alexlegend.com|VNAGirls.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 aliciasgoddesses.com|Andomark.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 allanal.com|nympho.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
-allanalallthetime.com|VNAGirls.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+allanalallthetime.com|AllAnalAllTheTime.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 allblackx.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 allfinegirls.net|WowPorn.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 allgirlmassage.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|Lesbian
@@ -280,12 +280,13 @@ defiled18.com|Teencoreclub.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 dellaitwins.com|porncz.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 desperateamateurs.com|DesperateAmateurs.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 detentiongirls.com|Nubiles.yml|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|-|-
-deviante.com|deviante.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+deviante.com|Deviante.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 devianthardcore.com|MindGeek.yml|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|-|-
 devilsfilm.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 devilsfilmparodies.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 devilsgangbangs.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 devonlee.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+diabolic.com|Diabolic.yml|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|CDP|-
 dianafeet.com|FFCSH.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 dickdrainers.com|Dickdrainers.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 dickontrip.com|porncz.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -376,6 +377,7 @@ fostertapes.com|PaperStreetMedia.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 fourfingerclub.com|NewSensationsNetworkSites.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 foxxedup.com|VNAGirls.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 franks-tgirlworld.com|GroobyNetwork-Partial.yml|:heavy_check_mark:|:x:|:x:|:x:|-|Trans
+freakmobmedia.com|FreakMobMedia.yml.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 freeones.com|FreeonesCommunity.yml|:x:|:x:|:x:|:heavy_check_mark:|-|Database
 freeones.xxx|FreeonesCommunity.yml|:x:|:x:|:x:|:heavy_check_mark:|-|-
 freeusefantasy.com|PaperStreetMedia.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -419,6 +421,7 @@ girlsrimming.com|GirlsRimming.yml|:heavy_check_mark:|:x:|:x:|:x:|-|Rimjobs
 girlstakeaway.com|porncz.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 girlstryanal.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|Lesbian
 girlsway.com|PureTaboo.yml|:heavy_check_mark:|:x:|:x:|:x:|CDP|Lesbian
+girlsunderarrest.com|GirlsUnderArrest.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 girlswhofuckgirls.com|Vivid.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 givemepink.com|sapphix.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 gloryholesecrets.com|GangBangCreampie.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -443,8 +446,9 @@ harmonyvision.com|HarmonyVision.yml|:heavy_check_mark:|:x:|:heavy_check_mark:|:x
 hd19.com|bellapass.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hdmassageporn.com|Wtfpass.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hdsex18.com|Wtfpass.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+heavyonhotties|HeavyOnHotties.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hegre.com|Hegre.yml|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|-|-
-helixstudios.com|HelixStudios.yml|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|stash >= v0.7.0-12|gay
+helixstudios.com|HelixStudios.yml|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|-|gay
 helloladyboy.com|YegasDreamsLLC.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hentai2read.com|hentai2read.yml|:x:|:heavy_check_mark:|:x:|:x:|-|Hentai
 hentaied.com|Hentaied.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -476,7 +480,7 @@ hotmilfsfuck.com|ExploitedX.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hotmovies.com|Hotmovies.yml|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|-|-
 hottiemoms.com|Hustler.yml|:heavy_check_mark:|:x:|:x:|:x:|CDP|-
 hotwifexxx.com|HotWifeXXX.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
-houseofgord.com|houseofgord.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+houseofgord.com|HouseOfGord.yml|:heavy_check_mark:|:x:|:x:|:x:|CDP|-
 houseoftaboo.com|DDFNetwork.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 houseofyre.com|HouseOfFyre.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 hucows.com|Hucows.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -607,7 +611,7 @@ maskurbate.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 massage-parlor.com|GammaEntertainment.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 massagebait.com|AMAMultimedia.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 mature4k.com|Vip4K.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
-max-hardcore.com|MaxHardcore.yml|:heavy_check_mark:|:x:|:x:|:x:|stash >= v0.7.0-12|-
+max-hardcore.com|MaxHardcore.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 maxinex.com|VNAGirls.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 meanawolf.com|MeanaWolf.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 meetsuckandfuck.com|Wtfpass.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
@@ -906,6 +910,7 @@ stunning18.com|SARJ-LLC.yml|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|python
 subbyhubby.com|SubbyHubby.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 submissived.com|PaperStreetMedia.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 submissivex.com|SubmissiveX.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
+subspaceland.com|SubspaceLand.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 sugarcookie.xxx|sugarcookie.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
 sugardaddyporn.com|BlurredMedia.yml|:heavy_check_mark:|:x:|:x:|:x:|CDP|-
 sunnylanelive.com|VNAGirls.yml|:heavy_check_mark:|:x:|:x:|:x:|-|-
