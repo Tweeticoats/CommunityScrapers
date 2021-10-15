@@ -1,8 +1,26 @@
 name: "AdultimeAPI"
+sceneByURL:
+  - action: script
+    url:
+      - adulttime.com/en/video/
+    script:
+      - python
+      - AdultimeAPI.py
 sceneByFragment:
     action: script
     script:
       - python
       - AdultimeAPI.py
-      #- logJSON # Save the JSON from the API to a file
-# Last Updated February 18, 2021
+sceneByName:
+    action: script
+    script:
+      - python
+      - AdultimeAPI.py
+      - searchName
+sceneByQueryFragment:
+    action: script
+    script:
+      - python
+      - AdultimeAPI.py
+      - validName
+# Last Updated September 14, 2021
