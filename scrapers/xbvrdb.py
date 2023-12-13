@@ -23,18 +23,41 @@ XBVR_HOST='http://192.168.0.35:9999'
    '''
 def lookup_scene(id):
     c=conn.cursor()
-    c.execute('SELECT title,synopsis,site,cover_url,scene_url,date(release_date, "localtime") FROM scenes WHERE id=?',(id,))
+    c.execute('SELECT title,synopsis,site,cover_url,scene_url,date(release_date, "localtime"),scene_id FROM scenes WHERE id=?',(id,))
     row=c.fetchone()
     res={}
     res['title']=row[0]
     res['details']=row[1]
-    res['studio']={"name":row[2]}
+    res['studio']={"name": row[2]}
     res['image']=row[3]
     res['url']=row[4]
     res['date']=row[5]
-    c.execute("SELECT tags.name FROM scene_tags,tags WHERE scene_tags.tag_id=tags.id AND scene_tags.scene_id=? ;",(id,))
-    row = c.fetchall()
-    res['tags']=[{"name":x[0]} for x in row]
+    res['code']=row[6]
+    tags = c.execute("SELECT tags.name FROM scene_tags, tags WHERE scene_tags.tag_id=tags.id AND scene_tags.scene_id=? ;", (id,))
+    tag_names = [x[0] for x in tags]
+    if 'javr' in tag_names:
+        tag_names.append('JAV')
+        tag_names.append('Censored')
+    else:
+        tag_names.append('Virtual Reality')
+    if row[2] == "NaughtyAmerica VR":
+        navrstudios = ["2 chicks same time", "after school", "american daydreams", "ass masterpiece", "big cock bully", "classroom", "dirty wives club", "fans", "fuck my ass", "housewife 1 on 1", "i have a wife", "lesbian girl on girl", "my dad's hot girlfriend", "my daughter's hot friend", "my first sex teacher", "my friend's hot girl", "my friend's hot mom", "my girl loves anal", "my girlfriend", "my girlfriend's busty friend", "my naughty massage", "my sister's hot friend", "my wife's hot friend", "naughty athletics", "naughty bookworms", "naughty office", "naughty rich girls", "naughty weddings", "neighbor affair", "party girls", "perfect fucking strangers", "pse porn star experience", "real pornstars vr", "seduced by a cougar", "slut step mom", "spring break", "summer vacation", "super sluts", "t&a", "thundercock", "tonight's fuck", "tonight's girlfriend classic", "true sex stories"]
+        for tag in tag_names:
+            if tag in navrstudios:
+                res['studio'] = {"name": tag}
+            else:
+                navrremaps = {
+                    "naughty america": "Naughty America VR",
+                    "dorm room": "The Dorm Room",
+                    "dressing room": "The Dressing Room",
+                    "gym": "The Gym",
+                    "office": "The Office",
+                    "spa": "The Spa",
+                    "tonight's girlfriend": "Tonight's Girlfriend Classic"
+                }
+                if tag in navrremaps:
+                    res['studio'] = {"name": navrremaps[tag]}
+    res['tags'] = [{"name": x} for x in tag_names]
     c.execute("SELECT actors.name FROM scene_cast,actors WHERE actors.id=scene_cast.actor_id AND scene_cast.scene_id=? ;",(id,))
     row = c.fetchall()
     res['performers']=[{"name":x[0]} for x in row]
